@@ -1,5 +1,5 @@
 Allows you to modify the plugins section of webpack config.  
-see https://webpack.js.org/configuration/resolve/ for all config options.
+see https://webpack.js.org/configuration/plugins/ for all config options.
 
 In `craco.config.js` file
 ```js
