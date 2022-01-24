@@ -3,11 +3,11 @@ see https://webpack.js.org/configuration/plugins/ for all config options.
 
 In `craco.config.js` file
 ```js
-import webpackPlugins from "craco-webpack-plugins"
-import webpack from "webpack"
+const webpack = require("webpack")
+const webpackPlugins = require("craco-webpack-plugins")
 
 //for example, if we need to add the process global to the browser
-export default {
+module.exports = {
     plugins: [{
         plugin: webpackPlugins,
         plugins: [

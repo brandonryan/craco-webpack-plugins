@@ -1,6 +1,6 @@
 {
   "name": "craco-webpack-plugins",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "Modify the webpack plugins section of CRA",
   "repository": "https://github.com/brandonryan/craco-webpack-plugins",
   "author": "Brandon Ryan <bjryan19@protonmail.com>",
